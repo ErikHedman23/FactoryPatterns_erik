@@ -1,0 +1,15 @@
+C:\Users\erikd\OneDrive\Desktop\repos\FactoryPatternExample_erik\FactoryPatternExample_erik\obj\Debug\net7.0\FactoryPatternExample_erik.csproj.AssemblyReference.cache
+C:\Users\erikd\OneDrive\Desktop\repos\FactoryPatternExample_erik\FactoryPatternExample_erik\obj\Debug\net7.0\FactoryPatternExample_erik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikd\OneDrive\Desktop\repos\FactoryPatternExample_erik\FactoryPatternExample_erik\obj\Debug\net7.0\FactoryPatternExample_erik.AssemblyInfoInputs.cache
+C:\Users\erikd\OneDrive\Desktop\repos\FactoryPatternExample_erik\FactoryPatternExample_erik\obj\Debug\net7.0\FactoryPatternExample_erik.AssemblyInfo.cs
+C:\Users\erikd\OneDrive\Desktop\repos\FactoryPatternExample_erik\FactoryPatternExample_erik\obj\Debug\net7.0\FactoryPatternExample_erik.csproj.CoreCompileInputs.cache
+C:\Users\erikd\OneDrive\Desktop\repos\FactoryPatternExample_erik\FactoryPatternExample_erik\bin\Debug\net7.0\FactoryPatternExample_erik.exe
+C:\Users\erikd\OneDrive\Desktop\repos\FactoryPatternExample_erik\FactoryPatternExample_erik\bin\Debug\net7.0\FactoryPatternExample_erik.deps.json
+C:\Users\erikd\OneDrive\Desktop\repos\FactoryPatternExample_erik\FactoryPatternExample_erik\bin\Debug\net7.0\FactoryPatternExample_erik.runtimeconfig.json
+C:\Users\erikd\OneDrive\Desktop\repos\FactoryPatternExample_erik\FactoryPatternExample_erik\bin\Debug\net7.0\FactoryPatternExample_erik.dll
+C:\Users\erikd\OneDrive\Desktop\repos\FactoryPatternExample_erik\FactoryPatternExample_erik\bin\Debug\net7.0\FactoryPatternExample_erik.pdb
+C:\Users\erikd\OneDrive\Desktop\repos\FactoryPatternExample_erik\FactoryPatternExample_erik\obj\Debug\net7.0\FactoryPatternExample_erik.dll
+C:\Users\erikd\OneDrive\Desktop\repos\FactoryPatternExample_erik\FactoryPatternExample_erik\obj\Debug\net7.0\refint\FactoryPatternExample_erik.dll
+C:\Users\erikd\OneDrive\Desktop\repos\FactoryPatternExample_erik\FactoryPatternExample_erik\obj\Debug\net7.0\FactoryPatternExample_erik.pdb
+C:\Users\erikd\OneDrive\Desktop\repos\FactoryPatternExample_erik\FactoryPatternExample_erik\obj\Debug\net7.0\FactoryPatternExample_erik.genruntimeconfig.cache
+C:\Users\erikd\OneDrive\Desktop\repos\FactoryPatternExample_erik\FactoryPatternExample_erik\obj\Debug\net7.0\ref\FactoryPatternExample_erik.dll
